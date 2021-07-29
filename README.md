@@ -38,4 +38,6 @@ Created a python module to perform statistical calculations. For each calculatio
 - [x] Sample Mean
 - [X] Sample Standard Deviation
 
+![alt text](https://github.com/Pa1710/Python-Calculator-Unit-testing/blob/main/125725258-2275baff-be5b-40a2-ba22-73ce3068df04.jfif)
+
 
